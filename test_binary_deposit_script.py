@@ -4,7 +4,7 @@ import sys
 
 
 # For not importing staking_deposit here
-DEFAULT_VALIDATOR_KEYS_FOLDER_NAME = 'validator_keys'
+# DEFAULT_VALIDATOR_KEYS_FOLDER_NAME = 'validator_keys'5880
 
 
 async def main(argv):
